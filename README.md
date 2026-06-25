@@ -10,11 +10,11 @@ Desenvolvedor em início de carreira com foco em **back-end Java**. Atuo no depa
 - **Java** — lógica de programação, orientação a objetos e Java Swing
 - **APIs REST** — consumo e integração de serviços externos
 - **Git & GitHub** — versionamento de código
+- - **PostgreSQL** e bancos de dados relacionais
 - Levantamento e análise de requisitos
 
 ### 🌱 O que estou aprendendo agora
 - **Spring Boot** e **Spring Data JPA** para desenvolvimento de APIs
-- **PostgreSQL** e bancos de dados relacionais
 - Boas práticas de arquitetura back-end
 
 ---
@@ -36,8 +36,8 @@ Desenvolvedor em início de carreira com foco em **back-end Java**. Atuo no depa
 ---
 
 ### 📫 Como me encontrar
-- LinkedIn: [seu-link-do-linkedin]
-- Inglês fluente (certificado CCAA) 🇧🇷 🇺🇸
+- LinkedIn: www.linkedin.com/in/luiz-marinello
+- instagram: https://www.instagram.com/smartdevbr/
 
 ---
 
